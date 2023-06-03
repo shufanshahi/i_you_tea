@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>notification.mp3</file>
+        <file>Oi_Oi_Oi.mp3</file>
+        <file>notification.wav</file>
+        <file>Oi_Oi_Oi.wav</file>
+        <file>noteimage3.jpg</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.png</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+        <file>8.jpg</file>
+        <file>noteimage3.jpg</file>
+        <file>noteimage4.jpg</file>
+        <file>savennote.png</file>
+        <file>resized1.jpg</file>
+        <file>resized2.jpg</file>
+        <file>resized3.jpg</file>
+        <file>resized4.jpg</file>
+    </qresource>
+</RCC>
