@@ -40,8 +40,7 @@ color:white;</string>
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">background-color:rgb(255, 225, 103);
-font-color:cyan;</string>
+    <string notr="true">background-color:rgb(255, 225, 103);</string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_3">
